@@ -1,0 +1,121 @@
+1. Arrays and Strings
+Basic operations (traversal, insertion, deletion)
+Subarrays and substrings
+Sliding window technique
+Two-pointer technique
+Sorting algorithms (quick sort, merge sort, etc.)
+Searching algorithms (binary search, linear search)
+2. Linked Lists
+Basic operations (insertion, deletion, traversal)
+Types: singly linked list, doubly linked list, circular linked list
+Detecting and handling cycles
+Reversing a linked list
+Merging and sorting linked lists
+3. Stacks and Queues
+Implementation using arrays or linked lists
+Basic operations (push, pop, peek for stacks; enqueue, dequeue for queues)
+Applications (expression evaluation, balanced parentheses, etc.)
+Advanced types: priority queue, double-ended queue (deque)
+4. Trees
+Binary Trees, Binary Search Trees (BST), AVL Trees, Red-Black Trees
+Tree traversal (in-order, pre-order, post-order)
+Level order traversal
+Lowest Common Ancestor (LCA)
+Balanced trees and self-balancing operations
+Segment Trees and Fenwick Trees (Binary Indexed Trees)
+5. Graphs
+Representation (adjacency matrix, adjacency list)
+Graph traversal algorithms (BFS, DFS)
+Shortest path algorithms (Dijkstra’s, Bellman-Ford, Floyd-Warshall)
+Minimum Spanning Tree (Kruskal’s, Prim’s)
+Topological sorting
+Graph cycles and connectivity
+6. Hashing
+Hash Tables and Hash Maps
+Handling collisions (chaining, open addressing)
+Applications (caching, data deduplication)
+7. Heaps
+Min-Heap and Max-Heap
+Heap operations (insert, extract-min/max)
+Heap sort
+Applications (priority queues, scheduling)
+8. Dynamic Programming
+Fundamental concepts (overlapping subproblems, optimal substructure)
+Classic problems (knapsack, longest common subsequence, matrix chain multiplication)
+Memoization vs. Tabulation
+9. Recursion and Backtracking
+Basic recursion and base cases
+Backtracking (n-queens problem, subset sum problem)
+Generating permutations and combinations
+10. Bit Manipulation
+Basic bit operations (AND, OR, XOR, NOT)
+Bit shifting
+Applications (bit masks, finding unique elements)
+11. Searching and Sorting Algorithms
+Binary Search (iterative and recursive)
+Merge Sort, Quick Sort, Heap Sort
+Counting Sort, Radix Sort, Bucket Sort
+12. Advanced Topics
+Trie (prefix trees)
+Suffix Trees and Suffix Arrays
+Disjoint Set (Union-Find) and its operations (union, find)1. Arrays and Strings
+Basic operations (traversal, insertion, deletion)
+Subarrays and substrings
+Sliding window technique
+Two-pointer technique
+Sorting algorithms (quick sort, merge sort, etc.)
+Searching algorithms (binary search, linear search)
+2. Linked Lists
+Basic operations (insertion, deletion, traversal)
+Types: singly linked list, doubly linked list, circular linked list
+Detecting and handling cycles
+Reversing a linked list
+Merging and sorting linked lists
+3. Stacks and Queues
+Implementation using arrays or linked lists
+Basic operations (push, pop, peek for stacks; enqueue, dequeue for queues)
+Applications (expression evaluation, balanced parentheses, etc.)
+Advanced types: priority queue, double-ended queue (deque)
+4. Trees
+Binary Trees, Binary Search Trees (BST), AVL Trees, Red-Black Trees
+Tree traversal (in-order, pre-order, post-order)
+Level order traversal
+Lowest Common Ancestor (LCA)
+Balanced trees and self-balancing operations
+Segment Trees and Fenwick Trees (Binary Indexed Trees)
+5. Graphs
+Representation (adjacency matrix, adjacency list)
+Graph traversal algorithms (BFS, DFS)
+Shortest path algorithms (Dijkstra’s, Bellman-Ford, Floyd-Warshall)
+Minimum Spanning Tree (Kruskal’s, Prim’s)
+Topological sorting
+Graph cycles and connectivity
+6. Hashing
+Hash Tables and Hash Maps
+Handling collisions (chaining, open addressing)
+Applications (caching, data deduplication)
+7. Heaps
+Min-Heap and Max-Heap
+Heap operations (insert, extract-min/max)
+Heap sort
+Applications (priority queues, scheduling)
+8. Dynamic Programming
+Fundamental concepts (overlapping subproblems, optimal substructure)
+Classic problems (knapsack, longest common subsequence, matrix chain multiplication)
+Memoization vs. Tabulation
+9. Recursion and Backtracking
+Basic recursion and base cases
+Backtracking (n-queens problem, subset sum problem)
+Generating permutations and combinations
+10. Bit Manipulation
+Basic bit operations (AND, OR, XOR, NOT)
+Bit shifting
+Applications (bit masks, finding unique elements)
+11. Searching and Sorting Algorithms
+Binary Search (iterative and recursive)
+Merge Sort, Quick Sort, Heap Sort
+Counting Sort, Radix Sort, Bucket Sort
+12. Advanced Topics
+Trie (prefix trees)
+Suffix Trees and Suffix Arrays
+Disjoint Set (Union-Find) and its operations (union, find)
