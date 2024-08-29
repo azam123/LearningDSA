@@ -1,0 +1,16 @@
+Implementing Dynamic Programming from Scratch in C#
+Dynamic Programming (DP) is a method used to solve complex problems
+by breaking them down into simpler subproblems and storing the results to avoid redundant computations. 
+Here’s a basic overview of how to implement dynamic programming in C#.
+
+1. Implementing DP for a Basic Problem: Fibonacci Sequence
+
+
+
+Top Google Interview Questions on Dynamic Programming
+
+1. Longest Common Subsequence
+2. 0/1 Knapsack Problem
+3. Edit Distance (Levenshtein Distance)
+4. Longest Increasing Subsequence
+5. Partition Equal Subset Sum
